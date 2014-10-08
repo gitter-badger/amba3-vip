@@ -1,5 +1,6 @@
 amba3-vip
 =========
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/luuvish/amba3-vip?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 amba3 apb/axi vip
 
